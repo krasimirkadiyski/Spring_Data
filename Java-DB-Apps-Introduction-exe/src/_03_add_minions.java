@@ -96,5 +96,6 @@ public class _03_add_minions {
         insertIntoMV.setInt(1,minionId);
         insertIntoMV.setInt(2,villainId);
         System.out.printf("Successfully added %s to be minion of %s",mName,vName);
+        connection.close();
     }
 }

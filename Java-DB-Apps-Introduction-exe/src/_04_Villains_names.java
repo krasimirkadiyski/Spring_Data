@@ -1,10 +1,8 @@
 import java.sql.*;
-import java.util.Collection;
-import java.util.Collections;
 import java.util.Properties;
 import java.util.Scanner;
 
-public class _01_Villains_names {
+public class _04_Villains_names {
     public static void main(String[] args) throws SQLException {
         Scanner scanner = new Scanner(System.in);
 
@@ -12,10 +10,10 @@ public class _01_Villains_names {
         props.setProperty("user", "root");
         props.setProperty("password", "qwerty123456");
 
-        Connection collection = DriverManager
+        Connection connection = DriverManager
                 .getConnection("jdbc:mysql://localhost:3306/minions_db", props);
         PreparedStatement stmt =
-                collection.prepareStatement("""
+                connection.prepareStatement("""
                         SELECT\s
                             name, COUNT(DISTINCT mv.minion_id) count
                         FROM
@@ -34,19 +32,7 @@ public class _01_Villains_names {
 
         System.out.printf("%s %s", result.getString("name"), result.getInt("count"));
 
-        //Connection connection = DriverManager
-        //                .getConnection("jdbc:mysql://localhost:3306/soft_uni", props);
-        //
-        //        PreparedStatement stmt =
-        //                connection.prepareStatement("SELECT * FROM employees WHERE salary > ?");
-        //
-        //        String salary = sc.nextLine();
-        //        stmt.setDouble(1, Double.parseDouble(salary));
-        //        ResultSet rs = stmt.executeQuery();
-        //
-        //        while(rs.next()){
-        //            System.out.println(rs.getString("first_name") + " " + rs.getString("last_name"));
-        //        }
-        //        connection.close();
+        connection.close();
+
     }
 }

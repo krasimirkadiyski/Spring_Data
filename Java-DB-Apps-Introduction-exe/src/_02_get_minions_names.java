@@ -10,11 +10,11 @@ public class _02_get_minions_names {
         props.setProperty("user", "root");
         props.setProperty("password", "qwerty123456");
 
-        Connection collection = DriverManager
+        Connection connection = DriverManager
                 .getConnection("jdbc:mysql://localhost:3306/minions_db", props);
 
         PreparedStatement stmt =
-                collection.prepareStatement("""
+                connection.prepareStatement("""
                         SELECT\s
                             v.name as villain, m.name as minion, m.age as age
                         FROM
@@ -42,5 +42,9 @@ public class _02_get_minions_names {
             while (result.next());
         }
 
+
+        connection.close();
+
     }
+
 }
