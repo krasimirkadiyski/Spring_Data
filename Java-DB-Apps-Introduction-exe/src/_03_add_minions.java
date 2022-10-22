@@ -16,7 +16,7 @@ public class _03_add_minions {
         Connection connection = DriverManager
                 .getConnection("jdbc:mysql://localhost:3306/minions_db", props);
 
-        System.out.println();
+
         List<String> inputMinion = Arrays.stream(scanner.nextLine().split(" ")).skip(1).toList();
         List<String> inputVillain = Arrays.stream(scanner.nextLine().split(" ")).skip(1).toList();
         String mName = inputMinion.get(0);

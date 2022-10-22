@@ -36,5 +36,6 @@ public class _08_increase_Minions_Age {
            int mAge = rsMinionAge.getInt("age");
             System.out.printf("%s %d\n",mName,mAge);
         }
+        connection.close();
     }
 }
