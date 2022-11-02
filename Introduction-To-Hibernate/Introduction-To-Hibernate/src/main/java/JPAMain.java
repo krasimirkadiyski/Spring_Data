@@ -1,3 +1,4 @@
+import entities.Student;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.Persistence;
@@ -7,9 +8,13 @@ public class JPAMain {
         EntityManagerFactory entityManagerFactory = Persistence.createEntityManagerFactory("school-db");
 
         EntityManager entityManager = entityManagerFactory.createEntityManager();
-
         entityManager.getTransaction().begin();
+        Student student = new Student("Teo");
+        entityManager.persist(student);
 
+        Student student1 = entityManager.find(Student.class, 1);
+
+        System.out.println(student1.getName());
 
         entityManager.getTransaction().commit();
         entityManager.close();
