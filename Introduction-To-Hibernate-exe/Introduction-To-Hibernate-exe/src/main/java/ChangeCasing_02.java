@@ -1,5 +1,5 @@
-import jakarta.persistence.EntityManager;
-import jakarta.persistence.Query;
+import javax.persistence.EntityManager;
+import javax.persistence.Query;
 
 public class ChangeCasing_02 {
     public static void main(String[] args) {
