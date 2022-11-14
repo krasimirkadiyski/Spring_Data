@@ -35,7 +35,7 @@ public class AuthorServiceImpl implements AuthorService {
         long count = this.authorRepository.count();
         if (count != 0) {
 
-             long randomAuthorId = new Random().nextLong();
+            long randomAuthorId = new Random().nextLong(1L, count) + 1;
             while (randomAuthorId > count || randomAuthorId < 1){
                 randomAuthorId = new Random().nextLong();
             }

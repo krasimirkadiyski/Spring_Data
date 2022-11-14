@@ -32,6 +32,7 @@ public class ConsoleRunner implements CommandLineRunner {
 
 //         this.seedService.seedAllData();
         this.getAllOrderByBooks();
+        System.out.println(this);
     }
 
     private void getAllBooksAfterAGivenYear() {

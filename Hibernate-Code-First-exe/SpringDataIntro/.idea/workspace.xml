@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dec95fd4-bc5d-40c2-8433-7a76f053875c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/bookshop/BookShopApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/bookshop/ConsoleRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/bookshop/constants/FilePath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/bookshop/domain/entities/Author.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/bookshop/domain/entities/BaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/bookshop/domain/entities/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/bookshop/domain/entities/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/bookshop/domain/enums/AgeRestriction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/bookshop/domain/enums/EditionType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/bookshop/repositories/AuthorRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/bookshop/repositories/BookRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/bookshop/repositories/CategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/bookshop/services/author/AuthorService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/bookshop/services/author/AuthorServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/bookshop/services/book/BookService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/bookshop/services/book/BookServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/bookshop/services/category/CategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/bookshop/services/category/CategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/bookshop/services/seed/SeedService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/bookshop/services/seed/SeedServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/DbContent/authors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/DbContent/books.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/DbContent/categories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/bg/softuni/bookshop/SpringDataIntroApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HMuoZuNNhtlLCWxgo7x0cYGz37" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Spring_Data/Spring_Data/Spring-Data-Intro-exe/SpringDataIntro",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "spring.configuration.checksum": "a6e8cbdc2f84ed1b516fca0215652ed2"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Spring_Data\Spring_Data\Hibernate-Code-First-exe\SpringDataIntro\src\main\resources\DbContent" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BookShopApplication">
+    <configuration name="BookShopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SpringDataIntro" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="bg.softuni.bookshop.BookShopApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bg.softuni.bookshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDataIntroApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringDataIntro" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="bg.softuni.bookshop.SpringDataIntroApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BookShopApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dec95fd4-bc5d-40c2-8433-7a76f053875c" name="Changes" comment="" />
+      <created>1668107450131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668107450131</updated>
+      <workItem from="1668107452927" duration="12883000" />
+      <workItem from="1668120388139" duration="363000" />
+      <workItem from="1668158637511" duration="3238000" />
+      <workItem from="1668238692132" duration="263000" />
+      <workItem from="1668239383129" duration="164000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -34,7 +34,7 @@ public class CategoryServiceImpl implements CategoryService{
         final long count = this.categoryRepository.count();
 
         if (count != 0) {
-             long randomAuthorId = new Random().nextLong();
+            long randomAuthorId = new Random().nextLong(1L, count) + 1;
             while (randomAuthorId > count || randomAuthorId < 1){
                 randomAuthorId = new Random().nextLong();
             }
