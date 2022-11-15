@@ -7,7 +7,6 @@ import bg.softuni.bookshop.services.author.AuthorService;
 import bg.softuni.bookshop.services.book.BookService;
 import bg.softuni.bookshop.services.category.CategoryService;
 import org.springframework.stereotype.Component;
-import org.springframework.stereotype.Service;
 import bg.softuni.bookshop.domain.enums.AgeRestriction;
 import java.io.IOException;
 import java.math.BigDecimal;
