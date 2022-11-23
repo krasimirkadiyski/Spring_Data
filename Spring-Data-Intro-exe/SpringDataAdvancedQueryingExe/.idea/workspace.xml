@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20270af5-c561-46fb-9d5a-00558d6984f5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../SpringDataIntro/src/main/java/bg/softuni/bookshop/services/seed/SeedServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringDataIntro/src/main/java/bg/softuni/bookshop/services/seed/SeedServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-Data-Advanced-Querying-exe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-Data-Advanced-Querying-exe/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-Data-Auto-Mapping-Objects-exe/SpringDataAutoMappingObjects/src/main/java/bg/softuni/automapping/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-Data-Auto-Mapping-Objects-exe/SpringDataAutoMappingObjects/src/main/java/bg/softuni/automapping/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-Data-Auto-Mapping-Objects-exe/SpringDataAutoMappingObjects/src/main/java/bg/softuni/automapping/entities/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-Data-Auto-Mapping-Objects-exe/SpringDataAutoMappingObjects/src/main/java/bg/softuni/automapping/entities/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-Data-Auto-Mapping-Objects-exe/SpringDataAutoMappingObjects/src/main/java/bg/softuni/automapping/entities/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-Data-Auto-Mapping-Objects-exe/SpringDataAutoMappingObjects/src/main/java/bg/softuni/automapping/entities/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-Data-Auto-Mapping-Objects-exe/SpringDataAutoMappingObjects/src/main/java/bg/softuni/automapping/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-Data-Auto-Mapping-Objects-exe/SpringDataAutoMappingObjects/src/main/java/bg/softuni/automapping/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,25 +29,16 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/Spring_Data/Spring_Data/Spring-Data-Advanced-Querying-exe/SpringDataAdvancedQueryingExe"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Spring_Data/Spring_Data/Spring-Data-Advanced-Querying-exe/SpringDataAdvancedQueryingExe&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;2dcee9b7750d5188638693cdff8d8900&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SpringDataAdvancedQueryingExeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="SpringDataAdvancedQueryingExe" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springdataadvancedqueryingexe.SpringDataAdvancedQueryingExeApplication" />
@@ -59,6 +56,8 @@
       <option name="presentableId" value="Default" />
       <updated>1668411580157</updated>
       <workItem from="1668411581818" duration="39000" />
+      <workItem from="1668690555482" duration="13000" />
+      <workItem from="1668690643812" duration="5000" />
     </task>
     <servers />
   </component>

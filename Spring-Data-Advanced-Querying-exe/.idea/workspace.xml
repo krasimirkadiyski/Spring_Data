@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2d8abec-5fa1-43be-9d98-d6b5cfa1112c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Spring-Data-Intro-exe/SpringDataIntro/src/main/java/bg/softuni/bookshop/services/seed/SeedServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Data-Intro-exe/SpringDataIntro/src/main/java/bg/softuni/bookshop/services/seed/SeedServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Data-Auto-Mapping-Objects-exe/SpringDataAutoMappingObjects/src/main/java/bg/softuni/automapping/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Data-Auto-Mapping-Objects-exe/SpringDataAutoMappingObjects/src/main/java/bg/softuni/automapping/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Data-Auto-Mapping-Objects-exe/SpringDataAutoMappingObjects/src/main/java/bg/softuni/automapping/entities/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Data-Auto-Mapping-Objects-exe/SpringDataAutoMappingObjects/src/main/java/bg/softuni/automapping/entities/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Data-Auto-Mapping-Objects-exe/SpringDataAutoMappingObjects/src/main/java/bg/softuni/automapping/entities/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Data-Auto-Mapping-Objects-exe/SpringDataAutoMappingObjects/src/main/java/bg/softuni/automapping/entities/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Data-Auto-Mapping-Objects-exe/SpringDataAutoMappingObjects/src/main/java/bg/softuni/automapping/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Data-Auto-Mapping-Objects-exe/SpringDataAutoMappingObjects/src/main/java/bg/softuni/automapping/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Data-Intro-exe/SpringDataAdvancedQueryingExe/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Data-Intro-exe/SpringDataAdvancedQueryingExe/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Data-Intro-exe/SpringDataAdvancedQueryingExe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Data-Intro-exe/SpringDataAdvancedQueryingExe/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +37,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/Spring_Data/Spring_Data/Spring-Data-Advanced-Querying/SpringDataAdvancedQuerying"
+    "last_opened_file_path": "E:/Spring_Data/Spring_Data/Spring-Data-Advanced-Querying/SpringDataAdvancedQuerying",
+    "spring.configuration.checksum": "7ac87c26fe1fa0073f3b33ebf5a10fd8"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -44,6 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668424365343</updated>
       <workItem from="1668424366580" duration="28000" />
+      <workItem from="1668690623216" duration="19000" />
     </task>
     <servers />
   </component>
