@@ -5,12 +5,13 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-import java.math.BigDecimal;
-
 @Getter
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class ImportCategoryDto {
+public class CategoryFullInformationDto {
     private String name;
+    private int productsCount;
+    private double averagePrice;
+    private double totalRevenue;
 }

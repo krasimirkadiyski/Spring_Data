@@ -28,7 +28,7 @@ public class Product extends BaseEntity {
     private User buyer;
     @ManyToOne(fetch = FetchType.EAGER)
     private User seller;
-    @ManyToMany
+    @ManyToMany()
     @Fetch(FetchMode.JOIN)
     private Set<Category> categories;
     public String getSellerFullName(){

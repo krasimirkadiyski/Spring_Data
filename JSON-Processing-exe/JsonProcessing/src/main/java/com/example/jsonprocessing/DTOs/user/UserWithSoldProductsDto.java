@@ -19,4 +19,5 @@ public class UserWithSoldProductsDto {
     private List<ProductSoldDto> sellingProducts;
 
 
+
 }
