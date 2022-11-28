@@ -1,4 +1,4 @@
-package softuni.exam.config;
+package com.example.football.config;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -7,9 +7,7 @@ import org.modelmapper.ModelMapper;
 import org.modelmapper.spi.MappingContext;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.ui.Model;
 
-import java.text.SimpleDateFormat;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
@@ -32,7 +30,4 @@ public class ApplicationBeanConfiguration {
     public Gson gson(){
         return new GsonBuilder().setPrettyPrinting().create();
     }
-
-
-
 }
